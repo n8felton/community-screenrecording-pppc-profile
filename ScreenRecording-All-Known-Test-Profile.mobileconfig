@@ -837,6 +837,18 @@
 						<key>IdentifierType</key>
 						<string>bundleID</string>
 					</dict>
+					<dict>
+						<key>Authorization</key>
+						<string>AllowStandardUserToSetSystemService</string>
+						<key>CodeRequirement</key>
+						<string>identifier "com.meraki.m_agent" and (anchor apple generic and certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = C73A479R6J)</string>
+						<key>Comment</key>
+						<string>Meraki Systems Manager Agent</string>
+						<key>Identifier</key>
+						<string>/Library/Application Support/Meraki/m_agent</string>
+						<key>IdentifierType</key>
+						<string>Path</string>
+					</dict>
 				</array>
 			</dict>
 		</dict>
