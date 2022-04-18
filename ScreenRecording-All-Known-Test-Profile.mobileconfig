@@ -657,7 +657,7 @@
 						<key>IdentifierType</key>
 						<string>bundleID</string>
 					</dict>
-					 <dict>
+					<dict>
 						<key>Authorization</key>
 						<string>AllowStandardUserToSetSystemService</string>
 						<key>CodeRequirement</key>
@@ -676,10 +676,10 @@
 						<string>identifier "com.aetherpal.mac.remotecontrol" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = V4Y7PP8KCJ</string>
 						<key>Comment</key>
 						<string>Workspace ONE Assist</string>
-						<key>IdentifierType</key>
-						<string>bundleID</string>
 						<key>Identifier</key>
 						<string>com.aetherpal.mac.remotecontrol</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
 					</dict>
 					<dict>
 						<key>Authorization</key>
@@ -688,10 +688,10 @@
 						<string>identifier "com.aetherpal.mac.remotecontrol.netcore" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = V4Y7PP8KCJ</string>
 						<key>Comment</key>
 						<string>Workspace ONE AssistCore</string>
-						<key>IdentifierType</key>
-						<string>bundleID</string>
 						<key>Identifier</key>
 						<string>com.aetherpal.mac.remotecontrol.netcore</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
 					</dict>
 					<dict>
 						<key>Authorization</key>
@@ -700,10 +700,10 @@
 						<string>identifier "com.barco.clickshare" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = P6CDJZR997</string>
 						<key>Comment</key>
 						<string>Barco Clickshare</string>
-						<key>IdentifierType</key>
-						<string>bundleID</string>
 						<key>Identifier</key>
 						<string>com.barco.clickshare</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
 					</dict>
 					<dict>
 						<key>Authorization</key>
@@ -712,10 +712,10 @@
 						<string>identifier "com.obsproject.obs-studio" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "2MMRE5MTB8"</string>
 						<key>Comment</key>
 						<string>OBS Studio</string>
-						<key>IdentifierType</key>
-						<string>bundleID</string>
 						<key>Identifier</key>
 						<string>com.obsproject.obs-studio</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
 					</dict>
 					<dict>
 						<key>Authorization</key>
@@ -724,10 +724,10 @@
 						<string>anchor apple generic and identifier "net.mkswap.Dropshare5" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = JM595RRAB5)</string>
 						<key>Comment</key>
 						<string>Dropshare 5</string>
-						<key>IdentifierType</key>
-						<string>bundleID</string>
 						<key>Identifier</key>
 						<string>net.mkswap.Dropshare5</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
 					</dict>
 					<dict>
 						<key>Authorization</key>
@@ -736,10 +736,10 @@
 						<string>identifier "com.mersive.solstice.client" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "63B5A5WDNG"</string>
 						<key>Comment</key>
 						<string>Mersive Solstice</string>
-						<key>IdentifierType</key>
-						<string>bundleID</string>
 						<key>Identifier</key>
 						<string>com.mersive.solstice.client</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
 					</dict>
 					<dict>
 						<key>Authorization</key>
@@ -748,10 +748,10 @@
 						<string>anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = SXFUXR3YQJ</string>
 						<key>Comment</key>
 						<string>NetSupport School - Client</string>
-						<key>IdentifierType</key>
-						<string>bundleID</string>
 						<key>Identifier</key>
 						<string>com.netsupportsoftware.school.client</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
 					</dict>
 					<dict>
 						<key>Authorization</key>
@@ -760,10 +760,10 @@
 						<string>anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = SXFUXR3YQJ</string>
 						<key>Comment</key>
 						<string>NetSupport School - Tutor</string>
-						<key>IdentifierType</key>
-						<string>bundleID</string>
 						<key>Identifier</key>
 						<string>com.netsupportsoftware.school.tutor</string>
+						<key>IdentifierType</key>
+						<string>bundleID</string>
 					</dict>
 					<dict>
 						<key>Authorization</key>
